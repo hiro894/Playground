@@ -1,4 +1,4 @@
 <?php
 echo 'develop added';
 
-echo 'conflict development';
+echo 'conflict master';
